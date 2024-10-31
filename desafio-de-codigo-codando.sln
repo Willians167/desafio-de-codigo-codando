@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Desafio-C#", "Desafio-C#", "{FA8086AE-1F90-461B-8C2F-8069AE082E2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ajundando-mestre-yoda", "Desafio-C#\ajundando-mestre-yoda\ajundando-mestre-yoda.csproj", "{528C8C83-BE4A-467E-A0C3-86E9082C85B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{528C8C83-BE4A-467E-A0C3-86E9082C85B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528C8C83-BE4A-467E-A0C3-86E9082C85B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528C8C83-BE4A-467E-A0C3-86E9082C85B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528C8C83-BE4A-467E-A0C3-86E9082C85B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{528C8C83-BE4A-467E-A0C3-86E9082C85B3} = {FA8086AE-1F90-461B-8C2F-8069AE082E2A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D02E5647-D6AC-4B5A-A787-3E1D96C602A5}
+	EndGlobalSection
+EndGlobal
