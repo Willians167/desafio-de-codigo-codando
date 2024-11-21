@@ -1,6 +1,3 @@
-
-# Exemplo do ReadMe para realização dos desafios
-
 # 🌌 Desafio: Ajudando o Mestre Yoda 🧙‍♂️
 
 > _"Fortes habilidades de programação em você eu vejo, jovem Padawan!"_ — Mestre Yoda
