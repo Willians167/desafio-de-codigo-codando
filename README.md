@@ -24,6 +24,7 @@ Sua missão é:
 **Entrada**:
 ```
 "Forte você se tornou, o lado sombrio eu sinto em você."
+Exemplos de Lições:
 Lição 1: "Confie na Força."
 Lição 2: "Faça ou não faça, tentativa não há."
 Lição 3: "Sempre passe adiante o que você aprendeu."
@@ -33,6 +34,7 @@ Lição 3: "Sempre passe adiante o que você aprendeu."
 ```
 Frase corrigida de Yoda: "Você se tornou forte, eu sinto o lado sombrio em você."
 Seus aprendizados como Padawan:
+Exemplos de Lições:
 1. Confie na Força.
 2. Faça ou não faça, tentativa não há.
 3. Sempre passe adiante o que você aprendeu.
